@@ -1,0 +1,37 @@
+{
+  "name": "Omnihub #665",
+  "description": "1000 unique digital artifacts living on Arc Testnet. Each Omnihub token is a gateway to the omniverse. Built by saleh007.",
+  "image": "ipfs://bafybeidvfod3c7gyf2gbx2msreybtj2rq2e442y6i6el2ddpxzvqnn3qd4/665.png",
+  "external_url": "https://omnihub.saleh007.arc/665",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Matter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Wanderer"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Stable"
+    },
+    {
+      "trait_type": "Core",
+      "value": "Nexus"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Rank",
+      "value": "Common"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Token Number",
+      "value": 665
+    }
+  ]
+}
