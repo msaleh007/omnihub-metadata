@@ -1,0 +1,37 @@
+{
+  "name": "Omnihub #483",
+  "description": "1000 unique digital artifacts living on Arc Testnet. Each Omnihub token is a gateway to the omniverse. Built by saleh007.",
+  "image": "ipfs://bafybeiakwqmbefc7lqddhkhzosokf27cuvuzaqfbkrixhorjoqxciuaatu/483.png",
+  "external_url": "https://omnihub.saleh007.arc/483",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyber Cyan"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sentinel"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Pulsing"
+    },
+    {
+      "trait_type": "Core",
+      "value": "Quantum"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Hexagon"
+    },
+    {
+      "trait_type": "Rank",
+      "value": "Common"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Token Number",
+      "value": 483
+    }
+  ]
+}
