@@ -1,0 +1,37 @@
+{
+  "name": "Omnihub #543",
+  "description": "1000 unique digital artifacts living on Arc Testnet. Each Omnihub token is a gateway to the omniverse. Built by saleh007.",
+  "image": "ipfs://bafybeidvfod3c7gyf2gbx2msreybtj2rq2e442y6i6el2ddpxzvqnn3qd4/543.png",
+  "external_url": "https://omnihub.saleh007.arc/543",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blood Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Stable"
+    },
+    {
+      "trait_type": "Core",
+      "value": "Plasma"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Pentagon"
+    },
+    {
+      "trait_type": "Rank",
+      "value": "Rare"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Token Number",
+      "value": 543
+    }
+  ]
+}
